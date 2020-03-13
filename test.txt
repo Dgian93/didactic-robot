@@ -1,2 +1,3 @@
-this is a test of the copy con txtfile command
+this is a test of the copy con txtfile command. This text will cause the local repo to have conflicts with the 
+master branch on Github' 
 
