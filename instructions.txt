@@ -1,1 +1,2 @@
 go left, then left, then left, then left . you've gone right . lORUM EPSUM THIS IS arbritrary the content doesn't matter at this point, jus the process of learning github. tHIS LINE IS USED TO EDIT THIS DOCUMENT MORE TO SHOW CHANGES IN LOCAL AND ON GITHUB. 
+Yo im editing this again so that I'll have to use a pull request to sync up the sample-branch with the changes to the master branch. 
